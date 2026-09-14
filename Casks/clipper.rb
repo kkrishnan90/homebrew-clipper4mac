@@ -8,7 +8,7 @@
 #
 cask "clipper" do
   version "0.2.0"
-  sha256 "REPLACED_BY_RELEASE_WORKFLOW"
+  sha256 "172932bbd6b810b432c7f0e7daa808d889ce2c8d19953296efa7a08b26cf1cd5"
 
   url "https://github.com/kkrishnan90/Clipper4Mac/releases/download/v#{version}/Clipper-#{version}.dmg",
       verified: "github.com/kkrishnan90/Clipper4Mac/"
