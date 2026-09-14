@@ -10,11 +10,11 @@ cask "clipper" do
   version "0.2.0"
   sha256 "REPLACED_BY_RELEASE_WORKFLOW"
 
-  url "https://github.com/kkrishnan90/clipper/releases/download/v#{version}/Clipper-#{version}.dmg",
-      verified: "github.com/kkrishnan90/clipper/"
+  url "https://github.com/kkrishnan90/Clipper4Mac/releases/download/v#{version}/Clipper-#{version}.dmg",
+      verified: "github.com/kkrishnan90/Clipper4Mac/"
   name "Clipper"
   desc "Native menu-bar clipboard manager with a Rust storage engine"
-  homepage "https://github.com/kkrishnan90/clipper"
+  homepage "https://github.com/kkrishnan90/Clipper4Mac"
 
   livecheck do
     url :url
